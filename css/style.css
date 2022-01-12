@@ -91,9 +91,9 @@ nav ul button:hover {
     max-width: 1000px;
     min-width: 300px;
     height: 400px;
-    background: rgba(0, 0, 0, 0.65);
+    background: rgba(0, 0, 0, 0.8);
     border-radius: 8px;
-    box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.8);
+    box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
     -webkit-box-shadow: 1px 0px 10px 0px rgba(0, 0, 0, 0.5);
     -moz-box-shadow: 1px 0px 10px 0px rgba(168, 54, 54, 0.5);
     position: relative;
