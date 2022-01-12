@@ -427,7 +427,15 @@ footer .last {
     .header-block .text {
         position: absolute;
         bottom: 10%;
-        left: 15;
+        left: 15;  
+    }
+    
+    .header-block .text h2 {
+        text-aligh: center;
+    } 
+    
+    .header-block .text p {
+        text-align: justify;
     }
 
     section .filter-card {
